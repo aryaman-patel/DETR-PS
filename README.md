@@ -11,4 +11,5 @@ Current output of the model:
 
 
 TODO: 
-[] Extend this model for instance matching over sequences of images, i.e. Video Panoptic segmentation 
+
+- [ ] Extend this model for instance matching over sequences of images, i.e. Video Panoptic segmentation, perhaps using something from ViP DeepLab? 
